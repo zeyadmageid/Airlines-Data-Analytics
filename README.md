@@ -51,40 +51,41 @@ This project entails an in-depth scrutiny of database pertaining to Airlines dat
 
 ## Getting Started
 
-Link to dataset: https://www.kaggle.com/datasets/abrarhossainhimself/understat-data-for-teams-players-2014-present
+Link to dataset: https://www.kaggle.com/datasets/fiazbhk/airline-data-analysis
 
-Download the data set which is a zip file containing a csv file for each season which contains a file each team. After extracting the zip file and uploading it to your notebook (in my case I used google drive), everything else will be taken care of. The first section of cells combines together all the csv files for the teams across all seaons into one main spreadsheet. 
+After downloading the dataset, upload it to your notebook and make sure to include it in the 'Connecting to database' cell as shown below.
+
+<img width="929" alt="image" src="https://github.com/zeyadmageid/Airlines-Data-Analytics/assets/52506246/73dec3bd-a738-4691-b5de-21980b7a7747">
+
 
 ### Prerequisites
 
-- Pandas
+- sqlite3
 - Numpy
 - Seaborn
 - Matplotlib
-- glob
+- json
 - google.colab
-- plotly
   
 ### Installation
 
 Make sure the libraries above are installed before running the notebook in the following format "!pip install library_name. For example, installing pandas would be: !pip install pandas
 
-## Usage
+## Ranges of different airplanes
 
-This project could be used to print season statistics, study the correlation nature between different metrics, and analyze the effect of managers on their clubs before and after their tenure. 
-<img width="1364" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/b5c3240b-329b-4c5a-aa2f-e072657984d1">
-<img width="1630" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/388ea8b4-1c8c-4c2d-ae46-b2156d0971bc">
-<img width="783" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/bbd9fb6e-6efb-4e14-8e50-1b75cdb7180c">
-<img width="723" alt="image" src="https://github.com/zeyadmageid/Soccer-Premier-League-Analysis/assets/52506246/cefa7cdb-741f-4c37-9b82-2cd5013237ae">
+<img width="916" alt="image" src="https://github.com/zeyadmageid/Airlines-Data-Analytics/assets/52506246/2e614d4b-bbe1-4d17-ab3f-3dc4bebdbb8b">
 
+## Airplanes with more than 100 seats
 
-## Contributing
+<img width="1057" alt="image" src="https://github.com/zeyadmageid/Airlines-Data-Analytics/assets/52506246/0350df5a-2b38-4e24-9477-a0015e3ee8b6">
 
-Others can contribute to this project by adding more recent seasons to the dataset as this dataset only goes up to 2019.
+## Number of tickets booked over time
 
-## Acknowledgments
+<img width="958" alt="image" src="https://github.com/zeyadmageid/Airlines-Data-Analytics/assets/52506246/2ae036c7-97ff-43ea-9692-2ec77ffe0ccf">
 
-I would like to thank the kaggle user who made the dataset available.
+## Class wise average flight prices
+
+<img width="959" alt="image" src="https://github.com/zeyadmageid/Airlines-Data-Analytics/assets/52506246/29fa0feb-2c80-4b4c-8f09-fb1718001bbb">
 
 ## Contact
 
