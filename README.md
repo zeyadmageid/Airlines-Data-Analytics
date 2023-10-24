@@ -11,7 +11,7 @@ Airlines data analysis project using SQL.
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Ranges of different airplanes](#Ranges of different airplanes)
+- [Ranges of different airplanes](#Ranges-of-different-airplanes)
 - [Ranges of different airplanes](#Ranges_of_different_airplanes)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
