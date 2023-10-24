@@ -12,7 +12,7 @@ Airlines data analysis project using SQL.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Ranges of different airplanes](#Ranges of different airplanes)
-- [Contributing](#contributing)
+- [Ranges of different airplanes](#contributing)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
