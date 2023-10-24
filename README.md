@@ -7,13 +7,14 @@ Airlines data analysis project using SQL.
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
+- [Tables](#tables)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Ranges of different airplanes](#Ranges-of-different-airplanes)
-- [Ranges of different airplanes](#Ranges_of_different_airplanes)
-- [Acknowledgments](#acknowledgments)
+- [Airplanes with more than 100 seats](#Airplanes-with-more-than-100-seats)
+- [Number of tickets booked over time](#Number-of-tickets-booked-over-time)
+- [Class wise average flight prices](#Class-wise-average-flight-prices)
 - [Contact](#contact)
 
 ## About
